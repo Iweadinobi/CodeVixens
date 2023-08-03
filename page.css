@@ -1,0 +1,19 @@
+/*body {
+  font-family:;
+}*/
+/*header {
+  text-align: center;
+}*/
+header {
+  border: 1px solid;
+  text-align: center;
+  color: white;
+  background-color: blue;
+  font-size:smaller;
+}
+h2 {
+  text-align: center;
+}
+body > p {
+  margin:auto;
+}
