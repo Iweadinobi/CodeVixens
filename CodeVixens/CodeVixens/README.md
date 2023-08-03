@@ -1,2 +1,0 @@
-# CodeVixens
-Assignments and Exams.
